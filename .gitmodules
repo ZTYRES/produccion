@@ -1,0 +1,4 @@
+[submodule "Consultoria-y-desarrollo-Quemari/ztyres"]
+	path = Consultoria-y-desarrollo-Quemari/ztyres
+	url = git@github.com:Consultoria-y-desarrollo-Quemari/ztyres.git
+	branch = main
